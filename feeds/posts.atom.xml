@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Jorge's Blog</title><link href="http://Jorge-S.github.io/" rel="alternate"></link><link href="http://Jorge-S.github.io/feeds/posts.atom.xml" rel="self"></link><id>http://Jorge-S.github.io/</id><updated>2017-02-23T20:42:00-06:00</updated><entry><title>First Run</title><link href="http://Jorge-S.github.io/First-Run.html" rel="alternate"></link><published>2017-02-23T20:42:00-06:00</published><updated>2017-02-23T20:42:00-06:00</updated><author><name>Jorge Solis</name></author><id>tag:Jorge-S.github.io,2017-02-23:First-Run.html</id><summary type="html">&lt;style type="text/css"&gt;/*!
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Jorge's Blog</title><link href="https://Jorge-S.github.io/" rel="alternate"></link><link href="https://Jorge-S.github.io/feeds/posts.atom.xml" rel="self"></link><id>https://Jorge-S.github.io/</id><updated>2017-02-23T20:42:00-06:00</updated><entry><title>First Run</title><link href="https://Jorge-S.github.io/First-Run.html" rel="alternate"></link><published>2017-02-23T20:42:00-06:00</published><updated>2017-02-23T20:42:00-06:00</updated><author><name>Jorge Solis</name></author><id>tag:Jorge-S.github.io,2017-02-23:First-Run.html</id><summary type="html">&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
